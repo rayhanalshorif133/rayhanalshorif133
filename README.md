@@ -57,29 +57,29 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 
 
 <p align="center">
-    <a href="https://github.com/rayhan-al-shorif/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rayhan Al Shorif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan-al-shorif&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/rayhanalshorif133/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rayhan Al Shorif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanalshorif133&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 🏆 Trophy
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=rayhan-al-shorif&theme=onestar&row=1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=rayhanalshorif133&theme=onestar&row=1&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/rayhan-al-shorif/github-readme-stats"><img alt="Rayhan Al Shorif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-al-shorif&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rayhan-al-shorif/github-readme-stats"><img alt="Rayhan Al Shorif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanalshorif133&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level Thank You <img src="https://img.icons8.com/office/16/000000/happy--v2.png"/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/rayhan-al-shorif/github-readme-activity-graph"><img alt="Rayhan Al Shorif's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rayhan-al-shorif&theme=react-dark)](https://github.com/rayhan-al-shorif/github-readme-activity-graph)" /></a>
+<a href="https://github.com/rayhanalshorif133/github-readme-activity-graph"><img alt="Rayhan Al Shorif's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rayhanalshorif133&theme=react-dark)](https://github.com/rayhanalshorif133/github-readme-activity-graph)" /></a>
 
 <br/>
 <br/>
@@ -88,7 +88,7 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 
 
 ## ❤ Views and Followers
-<a href="https://komarev.com/ghpvc/?username=rayhan-al-shorif">
-    <img src="https://komarev.com/ghpvc/?username=rayhan-al-shorif">
+<a href="https://komarev.com/ghpvc/?username=rayhanalshorif133">
+    <img src="https://komarev.com/ghpvc/?username=rayhanalshorif133">
 </a>
-<a href="https://github.com/rayhan-al-shorif?tab=followers"><img src="https://img.shields.io/github/followers/rayhan-al-shorif?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rayhanalshorif133?tab=followers"><img src="https://img.shields.io/github/followers/rayhanalshorif133?label=Followers&style=social" alt="GitHub Badge"></a>
