@@ -79,7 +79,9 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 <br/>
 <br/>
 
-<a href="https://github.com/rayhanalshorif133/github-readme-activity-graph"><img alt="Rayhan Al Shorif's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rayhanalshorif133&theme=react-dark)](https://github.com/rayhanalshorif133/github-readme-activity-graph)" /></a>
+<a href="https://github.com/rayhanalshorif133/github-readme-activity-graph">
+  <img alt="Rayhan Al Shorif's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rayhanalshorif133&theme=merko)](https://github.com/rayhanalshorif133/github-readme-activity-graph)" />
+</a>
 
 <br/>
 <br/>
