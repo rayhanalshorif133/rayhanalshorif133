@@ -27,7 +27,7 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 
 - 🔭 I’m currently working on ** B2M Technologies Ltd. **
 
-- 🌱 I’m currently learning and working on **Laravel, React js, Vue js, Node js, MongoDB, Firebase, Mysql, jQuery, Vanilla Javascript, Php, Html , CSS , Bootstrap, Tailwind CSS**
+- 🌱 I’m currently learning and working on **Laravel, React js, Next js, Node js, MongoDB, Firebase, Mysql, jQuery, Vanilla Javascript, Php, Html , CSS , Bootstrap, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available here
 
