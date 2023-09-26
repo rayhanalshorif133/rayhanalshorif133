@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h2 align="start">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there my gorgeous friend</h1>
+<h2 align="start" style="color:#ffffff;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, there my gorgeous friend</h1>
 I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend most of time coding outstanding projects.
 
 <p align="center">
