@@ -76,6 +76,7 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 ## 📊 My Github Stats
 
   <br/>
+  <img alt="Rayhan Al Shorif's Top Languages" src="https://random-app.technical-content.xyz/api/return" />
   <a href="https://github.com/rayhan-al-shorif/github-readme-stats"><img alt="Rayhan Al Shorif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanalshorif133&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level Thank You <img src="https://img.icons8.com/office/16/000000/happy--v2.png"/>
