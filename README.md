@@ -35,6 +35,9 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 
 - ⚡ Fun fact **I love learning techniques to play with programming languages.**
 
+- ⚡ <a href="https://leetcode.com/rayhanalshorif/" target="_blank"> LeetCode </a>
+
+
 ## 🚀 Languages and Tools
 
 <p align="center">
