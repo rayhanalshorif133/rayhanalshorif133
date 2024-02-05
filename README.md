@@ -82,7 +82,9 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/rayhan-al-shorif/github-readme-stats"><img align="left" alt="Rayhan Al Shorif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanalshorif133&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>            
-  <a href="https://leetcode.com/rayhanalshorif/"><img align="right" src="https://leetcode.card.workers.dev/rayhanalshorif?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> 
+  <a href="https://leetcode.com/rayhanalshorif/" style="width: 40%;">
+    <img align="right" src="https://leetcode.card.workers.dev/rayhanalshorif?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
+  </a> 
 </div>
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=rayhanalshorif133&theme=dracula" style="margin: 10px;">
   <img alt="Rayhan Al Shorif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanalshorif133&theme=dracula" />
