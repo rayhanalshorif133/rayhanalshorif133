@@ -8,6 +8,8 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Rayhan%20Al%20Shorif;Software%20Developer%20at%20B2M%20Technologies%20Ltd.;&font=Fira%20Code&center=true&width=840&height=45&weight=700&pause=1000&color=F72241&vCenter=true&size=25"></a>
 </p>
 
+
+
  
 ## ☕ Connect with me!
 
@@ -65,7 +67,7 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 
 <p align="center">
     <a href="https://github.com/rayhanalshorif133/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rayhan Al Shorif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanalshorif133&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rayhan Al Shorif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanalshorif133&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -76,21 +78,23 @@ I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I Spend mos
 </p>
 
 
-## 📊 My Github Stats
+## 📊 My Activity Stats
 
-  <a href="https://github.com/rayhan-al-shorif/github-readme-stats"><img alt="Rayhan Al Shorif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanalshorif133&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level Thank You <img src="https://img.icons8.com/office/16/000000/happy--v2.png"/>
-
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/rayhan-al-shorif/github-readme-stats"><img align="left" alt="Rayhan Al Shorif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanalshorif133&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>            
+  <a href="https://leetcode.com/rayhanalshorif/"><img align="right" src="https://leetcode.card.workers.dev/rayhanalshorif?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> 
+</div>
 <br/>
 <br/>
-
-<a href="https://github.com/rayhanalshorif133/github-readme-activity-graph">
-  <img alt="Rayhan Al Shorif's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rayhanalshorif133&theme=merko)](https://github.com/rayhanalshorif133/github-readme-activity-graph)" />
+<br/>
+<br/>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=rayhanalshorif133&theme=dracula" style="margin: 10px;">
+  <img alt="Rayhan Al Shorif's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanalshorif133&theme=dracula" />
 </a>
 
+
 <br/>
-<br/>
+
 
 
 
