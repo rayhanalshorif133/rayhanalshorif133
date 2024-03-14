@@ -5,7 +5,7 @@
 I'm Rayhan, a Full Stack Web Application Developer from  Bangladesh. I spend most of my time coding outstanding projects.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Rayhan%20Al%20Shorif;Software%20Developer%20at%20B2M%20Technologies%20Ltd.;&font=Fira%20Code&center=true&width=840&height=45&weight=700&pause=1000&color=F72241&vCenter=true&size=25"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Rayhan%20Al%20Shorif;Software%20Developer%20at%20B2M%20Technologies%20Ltd.;&font=Fira%20Code&center=true&width=840&height=45&weight=700&pause=1000&color=49A4FF&vCenter=true&size=25"></a>
 </p>
 
 
